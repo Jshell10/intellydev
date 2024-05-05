@@ -1,4 +1,4 @@
-## Hi, I'm TimeUnit (Jose Gambarte), a Developer 🚀 from Argentina.
+## Hi, I'm TimeUnit (Julian Gallo), a Developer 🚀 from Colombia.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TimeUnit-Services)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jose.gambarte/)
